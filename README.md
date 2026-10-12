@@ -1,0 +1,1 @@
+# criando-um-relat-rio-vendas-e-lucros-com-data-analytics-com-power-bi
